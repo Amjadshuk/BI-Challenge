@@ -62,21 +62,4 @@ Your submission will be evaluated based on the following weighted criteria:
 
 ## Good luck! We look forward to reviewing your submission. 🌟
 
-- Please submit your BI Project Repository to amjad.alshukiri@gmail.com.
-
-## Evaluation Criteria:
-My submission should be evaluated based on the following weighted criteria:
-
-### Main Knowledge Axes (60%):
-- Accuracy and effectiveness of data transformation and modeling: 20%
-- Proficiency in BI expressions for data analysis: 20%
-- Creativity and attention to detail in UI/UX design: 20%
-
-### Sub-Topics (30%):
-- Implementation of navigation and interaction features: 10%
-- Robust implementation of data-level security: 10%
-- Implementation of sub-topics within each main axis: 10%
-
-## Good luck! We look forward to reviewing your submission. 🌟
-
-- Please submit your BI Project Repository to amjad.alshukiri@gmail.com.
+- Please submit your BI Project Repository to ## amjad.alshukiri@gmail.com.
